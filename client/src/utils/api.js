@@ -1,3 +1,3 @@
-const API_URL = "http://localhost:3001";
+const API_URL = "https://takenote-web.onrender.com";
 
 export default API_URL;
